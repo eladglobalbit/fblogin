@@ -35,7 +35,7 @@ export default class App extends Component {
 
   render() {
     return (
-      <View>
+      <View style={styles.container}>
       <TouchableOpacity onPress={this.fbAuth.bind(this)}>
         <Text>Login with Facebook</Text>
       </TouchableOpacity>
