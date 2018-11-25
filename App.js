@@ -21,7 +21,7 @@ export default class App extends Component {
         if (result.isCancelled) {
           console.log("Login cancelled");
         } else {
-          console.log(
+          alert(
             "Login success with permissions: " +
               result.grantedPermissions.toString()
           );

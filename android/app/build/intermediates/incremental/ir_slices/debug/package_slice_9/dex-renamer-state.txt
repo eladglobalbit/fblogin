@@ -1,4 +1,4 @@
-#Sun Nov 25 15:24:02 IST 2018
-base.0=/Users/eladnisan/Desktop/react-native-projects/fblogin/android/app/build/intermediates/transforms/dexMerger/debug/29
+#Sun Nov 25 15:42:49 IST 2018
+base.0=/Users/eladnisan/Desktop/react-native-projects/git/fblogin/android/app/build/intermediates/transforms/dexMerger/debug/9
 path.0=classes.dex
 renamed.0=classes.dex
