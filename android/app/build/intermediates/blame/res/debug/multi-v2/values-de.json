@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eladnisan/Desktop/react-native-projects/fblogin/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "outputFile": "/Users/eladnisan/Desktop/react-native-projects/git/fblogin/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
                     "source": "/Users/eladnisan/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/0d5317ec90d6581496f025436c3b0635/res/values-de/values-de.xml",

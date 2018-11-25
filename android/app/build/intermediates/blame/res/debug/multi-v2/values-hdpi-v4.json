@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eladnisan/Desktop/react-native-projects/fblogin/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/eladnisan/Desktop/react-native-projects/git/fblogin/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/eladnisan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/84b4e7fc76bcdddddee0e59084fd7c91/res/values-hdpi-v4/values-hdpi-v4.xml",
